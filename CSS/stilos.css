@@ -1,0 +1,26 @@
+*
+{
+       font-family: Verdana, Geneva, Tahom
+}
+#card {
+    height: 80%;
+    width: 80%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    align-items: center;
+}
+
+#card img
+{
+    width: 50%;
+}
+
+#card-body {
+    align-items: center;
+}
+
+
+#container
+{
+    width: 70%;
+    margin-left: 7%;
+}
